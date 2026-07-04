@@ -1,0 +1,25 @@
+{
+  "sales": [
+    {
+      "date": "YYYY-MM-DD",
+      "product": "string",
+      "category": "string",
+      "purchasePrice": 0,
+      "sellingPrice": 0,
+      "quantity": 1
+    }
+  ],
+  "monthlyProfits": [
+    {
+      "month": "YYYY-MM",
+      "profit": 0
+    }
+  ],
+  "stocks": [
+    {
+      "item": "string",
+      "qty": 0,
+      "min": 5
+    }
+  ]
+}
